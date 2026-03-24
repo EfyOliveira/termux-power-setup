@@ -48,6 +48,15 @@
 | **Neofetch** | Info do sistema |
 | **Zsh + Oh My Zsh** | Terminal turbinado |
 
+## Estatísticas
+
+- 🔧 **18 ferramentas** instaladas automaticamente
+- 🐍 **6 linguagens** de programação
+- 🌐 **8 ferramentas** de rede
+- ⚡ **12 utilitários** essenciais
+- 🎨 **10 aliases** personalizados
+- 📁 **4 diretórios** organizados
+
 ## 🚀 Instalação Rápida
 
 ```bash
